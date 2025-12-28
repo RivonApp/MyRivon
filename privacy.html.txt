@@ -1,0 +1,36 @@
+Privacy Policy
+Last updated: December 2025
+
+This Privacy Policy describes how Rivon ("we", "our", or "us") collects, uses, and discloses your information when you use our mobile application.
+
+1. Information We Collect
+We collect minimal information required to provide our health services:
+
+Health & Fitness Data: We may ask for information such as your weight, height, gender, and age. This data is used solely to calculate internal health metrics (like BMI or calorie needs).
+User Input: You may enter data regarding your nutrition and exercise. You are not required to use your real name or real identity; a pseudonym is perfectly acceptable.
+App Usage Data: We may collect anonymous crash logs and performance data to fix bugs and improve stability. We do not collect unique device identifiers (IMEI/UUID) or personal contact lists.
+2. Permissions
+The app may request the following permissions to function correctly:
+
+Notifications: To send you reminders for water intake, daily goals, or updates.
+Storage: To save your health progress and settings locally on your device.
+Note: We do NOT access your microphone, camera, or contacts.
+
+3. How We Use Your Data
+Your data is used strictly for:
+
+Providing health and lifestyle analysis within the app.
+Playing audio alerts (using your device speakers).
+Improving app functionality and fixing bugs.
+We do not sell your personal data to third parties.
+
+4. Data Security
+We implement appropriate technical measures to protect your personal data stored within the app.
+
+5. Changes to This Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+
+Email: rivon.team@gmail.com
